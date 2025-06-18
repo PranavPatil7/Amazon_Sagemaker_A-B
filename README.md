@@ -362,17 +362,3 @@ Before destroying the API stack, is is recommend you [empty](https://docs.aws.am
 ```
 cdk destroy ab-testing-api
 ```
-
-## Want to know more?
-
-The [FAQ](docs/FAQ.md) page has some answers to questions on the design principals of this sample.
-
-See also the [OPERATIONS](docs/OPERATIONS.md) page for information on configuring experiments, and the API interface.
-
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-## License
-
-This library is licensed under the MIT-0 License. See the [LICENSE](LICENSE) file.
